@@ -1,0 +1,54 @@
+body {
+    background-repeat: no-repeat;
+    background-size: cover;
+
+    background-color: #ffcf00;
+  }
+
+  .sn{
+    background-color: #ffcf00;
+  }
+  .sn1{
+    background-color:white;
+  }
+  #log {
+    padding: 6px 30px;
+    font-size: 20px;
+  }
+  .photo{
+    width: 18rem;
+  }
+  .car1{
+    width: 50rem; background-color: black;
+  }
+  .car2{
+    color: #ffcf00;
+}
+.car3{
+    padding-left: 12%;
+}
+.car4{
+      color: #ffcf00;
+    font-size: large;
+  }
+  .car5{
+    text-decoration: none; color: white
+  }
+  .error1 {
+    padding: 10px;
+    background: #ffefef;
+    border: 1px solid var(--error);
+    color: var(--error);
+    border-radius: 4px;
+    margin: 20px 0;
+  }
+  input.error {
+    border: 1px solid var(--error);
+  }
+  cr1{
+    font-size: large;
+  }
+  .ce{
+    margin-left: 10%;
+    margin-top: 10%;
+  }
